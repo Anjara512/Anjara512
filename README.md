@@ -1,4 +1,4 @@
-# Salut 👋, je suis [Ton Nom], développeur FullStack spécialisé Next.js & TypeScript
+# Salut 👋, je suis Razafiarisoa Anjara, développeur FullStack spécialisé Next.js & TypeScript
 
 ![Profile views](https://komarev.com/ghpvc/?username=ton-github&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -8,7 +8,9 @@
 
 - 🚀 Passionné par la création d'expériences web modernes, accessibles et performantes, je transforme les idées en solutions concrètes.
 
-- 📫 Comment me joindre :https://www.linkedin.com/in/razafiarisoa-anjara-6084b0345
+- 📫 Contact :
+  [![Email](https://img.shields.io/badge/Email-rakotoanjara812@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakotoanjara812@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Razafiarisoa%20Anjara-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razafiarisoa-anjara-6084b0345)
 
 ---
 
