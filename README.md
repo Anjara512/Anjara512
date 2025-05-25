@@ -1,14 +1,14 @@
-# Salut 👋, Anjara, développeur FullStack spécialisé Next.js & TypeScript
+# Salut 👋, je suis [Ton Nom], développeur FullStack spécialisé Next.js & TypeScript
 
 ![Profile views](https://komarev.com/ghpvc/?username=ton-github&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 Je construis actuellement :
-  ◦ **AvocatClient** | Une application web permettant à des avocats de trouver des clients, et inversement.  
+  ◦ **AvocatClient** | Une application web innovante qui met en relation avocats et clients.  
     Développée avec **Next.js**, **TypeScript**, **MySQL**, **Prisma**, **NextAuth**, et **shadcn/ui**.
 
-- ❓ Posez-moi des questions sur : TypeScript, React, Next.js, Prisma, MySQL, Auth avec NextAuth, shadcn/ui...
+- 🚀 Passionné par la création d'expériences web modernes, accessibles et performantes, je transforme les idées en solutions concrètes.
 
-- 📫 Comment me joindre : [ton.email@exemple.com]
+- 📫 Comment me joindre :https://www.linkedin.com/in/razafiarisoa-anjara-6084b0345
 
 ---
 
