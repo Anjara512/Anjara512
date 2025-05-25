@@ -1,12 +1,12 @@
-# Salut 👋, je suis Razafiarisoa Anjara, développeur FullStack spécialisé Next.js & TypeScript
+# Salut 👋, je suis Razafiarisoa Anjara, développeur FullStack spécialisé en Node.js, React, Next.js & TypeScript
 
 ![Profile views](https://komarev.com/ghpvc/?username=ton-github&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 Je construis actuellement :
   ◦ **AvocatClient** | Une application web innovante qui met en relation avocats et clients.  
-    Développée avec **Next.js**, **TypeScript**, **MySQL**, **Prisma**, **NextAuth**, et **shadcn/ui**.
+    Développée avec **Node.js**, **React**, **Next.js**, **TypeScript**, **MySQL**, **Prisma**, **NextAuth**, et **shadcn/ui**.
 
-- 🚀 Passionné par la création d'expériences web modernes, accessibles et performantes, je transforme les idées en solutions concrètes.
+- 🚀 Développeur passionné, je crée des applications performantes, sécurisées et modernes avec les technologies les plus utilisées dans l’écosystème JavaScript.
 
 - 📫 Contact :
   [![Email](https://img.shields.io/badge/Email-rakotoanjara812@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakotoanjara812@gmail.com)
@@ -16,8 +16,9 @@
 
 ### 🔧 Stack & Outils
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat)
