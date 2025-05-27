@@ -2,9 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ton-github&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 Je construis actuellement :
+- 💬Je construis actuellement :
   ◦ **AvocatClient** | Une application web innovante qui met en relation avocats et clients.  
-    Développée avec **Node.js**, **React**, **Next.js**, **TypeScript**, **MySQL**, **Prisma**, **NextAuth**, et **shadcn/ui**.
+    Développée avec : **Next.js**, **TypeScript**, **MySQL**, **Prisma**, **NextAuth**, et **shadcn/ui**.
 
 - 🚀 Développeur passionné, je crée des applications performantes, sécurisées et modernes avec les technologies les plus utilisées dans l’écosystème JavaScript.
 
